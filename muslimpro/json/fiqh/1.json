@@ -8,20 +8,22 @@
       "type": 1
     },
     
-      "content": [
+    
     {
       "id": 2,
       "question": "Demo Sawal",
       "answer": " Demo Jawab",
       "type": 1
     },
-      "content": [
+     
+    
+  
     {
       "id":3,
       "question": "Demo Sawal",
       "answer": " Demo Jawab",
       "type": 1
-    },
+    }
   
 
   ]
