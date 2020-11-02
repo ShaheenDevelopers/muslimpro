@@ -4,15 +4,15 @@
     {
       "id": 1,
       "question": "Demo Sawal",
-       "answer":  " Demo Jawab "  
-      "type": 1
+       "answer":  " Demo Jawab " , 
+      "type": 1 
     },
     
       "content": [
     {
       "id": 2,
       "question": "Demo Sawal",
-       "answer":  " Demo Jawab "  
+       "answer":  " Demo Jawab "  ,
       "type": 1
     },
     
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "question": "Demo Sawal",
-       "answer":  " Demo Jawab "  
+       "answer":  " Demo Jawab "  ,
       "type": 1
     },
     
@@ -28,7 +28,7 @@
     {
       "id": 4,
       "question": "Demo Sawal",
-       "answer":  " Demo Jawab "  
+       "answer":  " Demo Jawab "  ,
       "type": 1
     },
     
@@ -36,7 +36,7 @@
     {
       "id": 5,
       "question": "Demo Sawal",
-       "answer":  " Demo Jawab "  
+       "answer":  " Demo Jawab "  ,
       "type": 1
     },
     
@@ -44,7 +44,7 @@
      {
       "id": 6,
       "question": "demo test 2
-       "answer":    "Demo Test 2"
+       "answer":    "Demo Test 2",
        "type": 1
     }
   ]
