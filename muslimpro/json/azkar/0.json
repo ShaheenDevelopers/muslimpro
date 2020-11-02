@@ -2,13 +2,13 @@
   "title": "الأذكار",
   "content": [
     {
-      "id": 1000,
+      "id": 1,
       "zekr": "Demo Azkaar",
       "type": 0
     },
   
     {
-      "id": 1024,
+      "id": 2,
       "zekr": "Demo Azkaar 2",
       "type": 0
     },
@@ -21,13 +21,13 @@
     
         
      {
-      "id": 1011,
+      "id": 3,
       "zekr": "Demo Azkaar 4",
       "type": 0
     },
     
     {
-      "id": 1025,
+      "id": 4,
       "zekr": "Demo Azkaar5",
       "type": 0
     }
